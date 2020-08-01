@@ -1,1 +1,2 @@
 Memoery Managment: is an operating system function which handles the primary memory. Memory managment keeps track of all the locations regardles of it's allocation. This function ensures accuracy and availability of data that is being added or removed. 
+Processor Managment: is an operating system function that manages the time and access each processes has to the processor. This function has access to kep track of processes status which is also known as traffic controller. When a process is no longer equired this function has the ability to remove specific processors. 
