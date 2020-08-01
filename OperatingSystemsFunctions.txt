@@ -1,0 +1,1 @@
+Memoery Managment: is an operating system function which handles the primary memory. Memory managment keeps track of all the locations regardles of it's allocation. This function ensures accuracy and availability of data that is being added or removed. 
